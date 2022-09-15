@@ -10,6 +10,6 @@ HOW TO
 
 #Changelog 1.0
 
-I dag har Alexander lavet både character movement og mouse movement
+I dag har Alexander lavet både character movement og mouse movement og er næsten færdig med døde systemet for nu.
 
 #Changelog 1.0
